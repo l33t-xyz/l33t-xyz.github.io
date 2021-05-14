@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: l33t.xyz
+Token: ae040ef511d375ae031805212b01deed3f51c32b5f819ad6639d9ed978090cb6
