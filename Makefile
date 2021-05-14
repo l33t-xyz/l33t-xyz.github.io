@@ -1,0 +1,2 @@
+wellknown:
+	./wellknown.sh
