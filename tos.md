@@ -35,7 +35,7 @@ Our Service is provided "as is" and "as available" without warranties of any kin
 To the fullest extent permitted by law, l33t.xyz shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (a) your use or inability to use our Service; (b) any unauthorized access to or use of our servers and/or any personal information stored therein.
 
 ## 10. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law principles.
 
 ## 11. Contact Information
 If you have any questions about these Terms, please contact us at hello@l33t.xyz.
